@@ -1,12 +1,6 @@
 <p align="left">
-  <!-- Já existentes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40"/>
-
-
-
-
-> "Cada linha de código é um passo a menos entre você e o impossível."
-
-🇧🇷
+  <!-- Times -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flamengo_logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Escudo_de_Racing_Club.svg" width="40"/>
+</p>
